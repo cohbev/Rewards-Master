@@ -1,0 +1,14 @@
+// manifest.json
+{
+  "manifest_version": 2,
+
+  "name": "Rewards Master",
+  "description": "Master your Microsoft Rewards",
+  "version": "1.0.0",
+
+  "browser_action": {
+   "default_icon": "foot.png"
+  },
+  "permissions": [
+   "activeTab"
+ ]
